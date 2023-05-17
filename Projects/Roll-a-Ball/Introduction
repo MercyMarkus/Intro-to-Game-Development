@@ -1,0 +1,10 @@
+# Getting Started with Game Development in Unity
+We'll be using the Roll-a-ball project to learn the basics of Game Development in Unity as well as an introduction to C# and using it to make our game interactive.
+
+## Course Objectives
+1. Use Unity Editor and its built-in capabilities to set up a simple game environment.
+   - Understand how to navigate the Unity Editor.
+2. Write custom C# scripts to create the game functionality.
+   - Introduction to C#.
+3. Create a basic user interface to improve the game experience.
+4. Build your game, so other people can play it.
